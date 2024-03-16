@@ -21,7 +21,7 @@ Perangkat ini memiliki dua lampu LED yang bisa dikontrol melalui webserver, terd
 **Board Schematic :**
 
 Design Schematic
-![Board_Schematic](https://lh3.googleusercontent.com/drive-storage/AJQWtBNrLFRe0XPUwKf6pG8r5vdooLO_cFJ4mRL7O0K7cIFRMouMS6P9LT_9WZG7y80GodA1h7VYNFe1V3xAWXPww7f7TaDP_HGJGQE78phX=w1894-h850)
+![skematik_posttest1](https://github.com/irsyydl/posttest1-praktikum-iot-unmul-2024/assets/72110160/988e9f5e-b3f7-48d5-b01c-3a5a2d698f5e)
 
 Our Schematic
 ![Board_Schematic2](https://github.com/irsyydl/posttest1-praktikum-iot-unmul-2024/blob/main/schematic.jpg?raw=true)
